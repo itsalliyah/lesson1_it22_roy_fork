@@ -1,3 +1,4 @@
-Getting Started with Python Dev from Segales
+Getting Started with Python Dev from Roy
+
 
 
